@@ -22,4 +22,4 @@ venom 是抽奖活动模块化的一套前端方案；
 
 抽奖活动在UI和形式上是非常个性化的，所以venom提供的模块都设计了灵活的样式定制属性
 
-![tree](./tree.png)
+![tree](./asset/tree.png)
