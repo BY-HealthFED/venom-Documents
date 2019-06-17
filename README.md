@@ -10,18 +10,8 @@ venom 是抽奖活动模块化的一套前端方案；
   [lotteryboxroulette](https://github.com/by-healthFED/venom-lotteryboxroulette)
 
 - Walle
+
   [walle](https://github.com/by-healthFED/venom-walle)
-
-
-Why
-
-
-
-
-
-
-
-
 
 ### Why
 
