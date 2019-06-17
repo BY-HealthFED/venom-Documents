@@ -11,7 +11,7 @@ venom 是抽奖活动模块化的一套前端方案；
 
 - Walle
 
-  [walle](https://by-healthfed.github.io/venom-walle)
+  [walle(服务包)](https://by-healthfed.github.io/venom-walle)
 
 ### Why
 
