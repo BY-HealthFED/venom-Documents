@@ -5,9 +5,7 @@ venom 是抽奖活动模块化的一套前端方案；
 
 - Game
 
-  1. [lotteryflip (翻牌)](https://by-healthfed.github.io/venom-lotteryflip)
-  2. [lotteryroulette (大转盘)](https://by-healthfed.github.io/venom-lotteryroulette)
-  3. [lotteryboxroulette(九宫格)](https://by-healthfed.github.io/venom-lotteryboxroulette)
+  [ lotteryflip (翻牌) - lotteryroulette (大转盘) - lotteryboxroulette(九宫格)](<https://by-healthfed.github.io/venom-Documents/Game>)
 
 - Walle
 

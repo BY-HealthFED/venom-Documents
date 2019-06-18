@@ -52,6 +52,15 @@ prizes = [{
 
 #### case
 
+```sh
+npm i @byhealth/lotteryflip -S
+```
+
+> 安装想要的使用的抽奖游戏包： 
+> 	翻牌```@byhealth/lotteryflip```
+> 	大转盘```@byhealth/lotteryroulette```
+> 	九宫格```@byhealth/lotteryboxroulette```
+
 ```javascript
 import { Game } from '@byhealth/LotteryFlip';
 
