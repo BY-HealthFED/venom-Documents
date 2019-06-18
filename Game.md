@@ -2,7 +2,7 @@
 
 #### Demo 
 
-[翻牌抽奖](https://by-healthfed.github.io/venom-lotteryflip/dist)   [大转盘抽奖](https://by-healthfed.github.io/venom-lotteryroulette/dist)   [九宫格抽奖](https://by-healthfed.github.io/venom-lotteryroulette/dist)
+[翻牌抽奖](https://by-healthfed.github.io/venom-lotteryflip/dist)   [大转盘抽奖](https://by-healthfed.github.io/venom-lotteryroulette/dist)   [九宫格抽奖](https://by-healthfed.github.io/venom-lotteryboxroulette/dist)
 
 #### parame
 
